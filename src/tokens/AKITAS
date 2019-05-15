@@ -1,0 +1,26 @@
+{
+  "symbol": "ATC",
+  "name": "AKITATOKCOIN",
+  "type": "ERC20",
+  "address": "0x83c1aee6cac1ccfb2a4c2f779fce0184ac4e59ca",
+  "ens_address": "",
+  "decimals": 18,
+  "website": "http://akitacom.ru",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "asistencia@akitacom.ru", "url": "" },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/mnrosx",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}
